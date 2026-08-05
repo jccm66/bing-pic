@@ -3,7 +3,7 @@ import json
 import urllib.request
 from datetime import datetime
 
-API_URL = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1"
+API_URL = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=8"
 BASE_URL = "https://cn.bing.com"
 SAVE_DIR = "./Bing_Picture"
 
